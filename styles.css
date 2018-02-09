@@ -78,6 +78,7 @@ header img {
 
 .table-container {
   overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 
 .table-wrap {
