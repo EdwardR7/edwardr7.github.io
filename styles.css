@@ -108,3 +108,17 @@ footer {
   margin-top: 2rem;
   color: white;
 }
+
+@media print {
+  html {
+    font-size: 12px;
+  }
+
+  .table-container {
+    overflow: unset;
+  }
+  
+  .table-wrap::after {
+    display: none;
+  }
+}
