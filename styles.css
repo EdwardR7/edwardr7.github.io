@@ -129,5 +129,9 @@ footer {
   table {
     width: 100%
   }
+  
+  .video {
+    display: none;
+  }
 }
 
