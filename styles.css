@@ -121,4 +121,8 @@ footer {
   .table-wrap::after {
     display: none;
   }
+  
+  .container {
+    max-width: 100%;
+  }
 }
