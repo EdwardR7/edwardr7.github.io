@@ -1,4 +1,4 @@
-# edwardr7.github.io
+# Edward Rostomian
 My Personal Webpage
 
 ## Farver:
